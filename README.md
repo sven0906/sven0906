@@ -3,7 +3,7 @@
 [![sven0906's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sven0906&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/sven0906)
 -->
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=React&logoColor=white"/>
 
 <!--
 **sven0906/sven0906** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
