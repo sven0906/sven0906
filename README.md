@@ -1,5 +1,7 @@
+<!-- 
 ![sven0906's github stats](https://github-readme-stats.vercel.app/api?username=sven0906&show_icons=true)
 [![sven0906's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sven0906&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/sven0906)
+-->
 
 <!--
 **sven0906/sven0906** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
